@@ -39,8 +39,8 @@ This is preview of my design which intractive comment with HTML and vanilla Java
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/boyhendrawan/interactive-comments)
+- Live Site URL: [Add live site URL here](https://boyhendrawan.github.io/interactive-comments/)
 
 ## My process
 
