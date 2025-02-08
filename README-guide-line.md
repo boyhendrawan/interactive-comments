@@ -63,10 +63,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 ## Deploying your project
 
 As mentioned above, there are many ways to host your project for free. Our recommended hosts are:
-
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+- [github pages](https://boyhendrawan.github.io/interactive-comments/)
 
 You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
 
