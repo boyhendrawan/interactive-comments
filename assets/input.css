@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply bg-light-gray font-inter
+}
+
+@layer components{
+    .replay-icon{
+        background-image: url("./images/icon-reply.svg");
+        
+    }
+    .size-icon{
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .plus-icon{
+        background-image: url("./images/icon-plus.svg");
+    }
+    .minus-icon{
+        background-image: url("./images/icon-minus.svg");
+    }
+    .delete-icon{
+        background-image: url("./images/icon-delete.svg");
+    }
+    .edit-icon{
+        background-image: url("./images/icon-edit.svg");
+    }
+}
